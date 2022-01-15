@@ -1,3 +1,3 @@
 # gorjeta 
 
-link: https://hardcore-gates-f5e46a.netlify.app/
+link: https://festive-franklin-50c3ba.netlify.app/
