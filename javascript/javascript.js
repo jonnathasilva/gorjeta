@@ -75,6 +75,7 @@ function calculator(number){
         total.innerHTML = `$${text}` ;
 
         tip = (number / 100) * text ;
+        tip = parseFloat(tip.toFixed(2))
 
         Tip.innerHTML = `$${tip}` ;
 
